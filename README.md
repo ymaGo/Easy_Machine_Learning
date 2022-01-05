@@ -6,7 +6,7 @@ I want to concentrate to fully understand the mathmatics under the algorithms bu
 
 For some machine learning algorithms, I created the xlxs file to realize the algorithm at the same time, this is veryhelpfull for me to understand the algorithm.
 
-I did this job one year ago.
+I did this job about one year ago.
 
 Hope they are usefull to you.
 
